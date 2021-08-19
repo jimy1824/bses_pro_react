@@ -1,0 +1,55 @@
+.btn-social {
+    width: 100%;
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+    margin: 5px 0;
+    opacity: 0.85;
+    display: inline-block;
+    font-size: 17px;
+    line-height: 20px;
+    text-decoration: none; /* remove underline from anchors */
+    text-align: center;
+}
+.btn-social:hover {
+    opacity: 1;
+}
+.fb {
+    background-color: #3B5998;
+    color: white;
+}
+.fb:hover {
+    color: white;
+}
+.google {
+    background-color: #dd4b39;
+    color: white;
+    text-decoration: none;
+}
+.google:hover {
+    color: white;
+    cursor:pointer;
+}
+.phone {
+    background-color: #4b9c2d;
+    color: white
+}
+.phone:hover {
+    color: white
+}
+.link{
+    cursor:pointer;
+}
+.forgot{
+    color:#73d3d0
+}
+.forgot:hover{
+    color:#9ea1a5
+}
+.signup{
+    color:#73d3d0;
+    font-weight: 600;
+}
+.signup:hover{
+    color:#9ea1a5
+}
